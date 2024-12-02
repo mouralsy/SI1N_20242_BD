@@ -1,0 +1,18 @@
+Documentação textual das entidades
+
+* Usuário: Empresas e pessoas que se cadastram para submeter seus projetos 
+
+* ⁠ Projeto:  Empresa e pessoas criam projetos sociais para ser financiados, ao serem submetidos, passam por uma análise.
+
+* Status de Submissão do projeto: Os projetos, durante e depois de passarem pela analise irá mostrar o status do projeto( em avaliação, aprovado, rejeitado) 
+	
+* Comprovante: Após o projeto ser aprovado, as empresas e pessoas deveram “prestar conta” do investimento do projeto, para o financiamento
+
+
+Tabelas de relacionamento:
+
+Cada usuário pode ter muitos projetos.
+
+Os projetos poderão ter mais de um comprovantes
+
+Os projetos apenas pode ter um status de submissão
